@@ -19,6 +19,30 @@
       "icon": "home"
     },
     {
+      "title": "Technical Guides",
+      "icon": "server",
+      "collapsible": true,
+      "children": [
+        {
+          "title": "Architecture",
+          "path": "/technical/architecture"
+        },
+        {
+          "title": "API Guidelines",
+          "path": "/technical/api-guidelines"
+        },
+        {
+          "title": "Database Schema",
+          "path": "/technical/database-schema"
+        }
+      ]
+    },
+    {
+      "title": "Interview Questions",
+      "path": "/interview-question",
+      "icon": "book-open"
+    },
+    {
       "title": "Resources",
       "icon": "feather",
       "collapsible": false,
